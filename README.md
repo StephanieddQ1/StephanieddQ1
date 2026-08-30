@@ -6,7 +6,7 @@ My current technical interests include FPGA and digital design, computer archite
 
 ## Technical Skills
 
-**Programming & HDL:** Python • Java • MATLAB • Verilog HDL • VHDL • C++ • R
+**Programming & HDL:** Python • Java • MATLAB • Verilog HDL • VHDL • Arduino C • R
 
 **Hardware & Systems:** FPGA • Basys 3 • Zybo Zynq-7000 SoC • Microcontrollers • PLCs
 
